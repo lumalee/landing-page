@@ -29,3 +29,12 @@ body {
 .text-right {
   text-align: right;
 }
+.black-border {
+  border: 2px solid black;
+}
+.no-border {
+  border: 0;
+}
+.no-border-radius {
+  border-radius: 0;
+}

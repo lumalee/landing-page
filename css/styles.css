@@ -1,0 +1,31 @@
+@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+body {
+  font-family: 'Inter', Helvetica, Arial, sans-serif;
+}
+.navbar {
+  font-weight: 600;
+}
+.navbar-brand-image {
+  max-width: 50px;
+  margin-top: -4px;
+  margin-right: 10px;
+}
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  opacity: 0.5;
+}
+.navbar-toggler {
+  border: none;
+}
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+.display-font {
+  font-family: 'Calistoga', sans-serif;
+}
+.text-right {
+  text-align: right;
+}

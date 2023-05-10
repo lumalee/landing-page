@@ -38,3 +38,6 @@ body {
 .no-border-radius {
   border-radius: 0;
 }
+.form-control {
+  border-right: none;
+}
